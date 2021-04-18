@@ -1,6 +1,8 @@
 # pandas-challenge
 Pandas Homework for Data Analytics U of M Bootcamp
 
+Homework = pandas-challenge/HeroesOfPymoli/HeroesOfPymoli_GGJ.ipynb
+
 Observable Trends:
 
 1. While Males make up the vast majority of players, gender does not correlate to spending as the average spent per person is roughly the same.  
